@@ -3,6 +3,8 @@ wercker-docker-sample
 
 [![wercker status](https://app.wercker.com/status/2f457dbea0d4f80c1d675d5b9c153a89/m "wercker status")](https://app.wercker.com/project/bykey/2f457dbea0d4f80c1d675d5b9c153a89)
 
+## Notice: This example is for the deprecated `docker labs` environment. If you want to use docker on wercker use the new [ewok stack](http://devcenter.wercker.com/index.html) instead.
+
 This is a sample app to demonstrate [docker](http://docker.io) support on [wercker](http://wercker.com).
 
 ### What is docker?
